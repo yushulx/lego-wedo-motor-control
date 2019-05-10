@@ -8,7 +8,7 @@
 
 ```
 sudo apt-get update
-sudo apt install libdbus-1-dev libudev-dev libical-dev libreadline-dev
+sudo apt-get install libbluetooth-dev bluez bluez-hcidump  libboost-python-dev libboost-thread-dev libglib2.0-dev
 sudo pip install gattlib
 ```
 
@@ -31,3 +31,7 @@ gksudo python app.py
 ## Reference
 - https://www.ev3dev.org/docs/tutorials/controlling-wedo2-motor/
 - https://ofalcao.pt/blog/series/wedo-2-0-reverse-engineering
+- https://github.com/matthewelse/pygattlib
+- https://www.python-course.eu/python_tkinter.php
+- https://lego.github.io/lego-ble-wireless-protocol-docs/
+- https://github.com/ev3dev/ev3dev/issues/521
