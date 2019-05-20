@@ -35,3 +35,6 @@ gksudo python app.py
 - https://www.python-course.eu/python_tkinter.php
 - https://lego.github.io/lego-ble-wireless-protocol-docs/
 - https://github.com/ev3dev/ev3dev/issues/521
+
+## Blog
+[Controlling LEGO Wedo Motor with Python GUI App in Linux](https://www.codepool.biz/lego-wedo-motor-python-gui-linux.html)
