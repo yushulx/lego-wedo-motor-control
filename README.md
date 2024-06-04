@@ -37,4 +37,4 @@ gksudo python app.py
 - https://github.com/ev3dev/ev3dev/issues/521
 
 ## Blog
-[Controlling LEGO Wedo Motor with Python GUI App in Linux](https://www.codepool.biz/lego-wedo-motor-python-gui-linux.html)
+[Controlling LEGO Wedo Motor with Python GUI App in Linux](https://www.dynamsoft.com/codepool/lego-wedo-motor-python-gui-linux.html)
